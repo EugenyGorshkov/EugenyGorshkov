@@ -43,3 +43,8 @@ Frontend developer from Russia 🇷🇺
 ##
 
 [![Codewars](https://www.codewars.com/users/SkyWay96/badges/micro)](https://www.codewars.com/users/SkyWay96)
+
+##
+
+### Contacts
+[<img src="https://img.shields.io/badge/telegram-2F4F4F?style=for-the-badge&logo=telegram"/>](https://t.me/skyway96)
