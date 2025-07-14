@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="start">Hi, I'm Evgeniy 👋</h1>
+<h1 align="start">Hi, I'm Eugeny 👋</h1>
 
 <p align="start">
 Frontend developer from Russia 🇷🇺
