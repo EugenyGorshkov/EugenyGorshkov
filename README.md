@@ -38,7 +38,7 @@ Frontend developer from Russia 🇷🇺
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EugenyGorshkov&theme=dark&exclude_days=Sun%2CSat&card_width=480&card_height=180)](https://git.io/streak-stats)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenyGorshkov)](https://github.com/anuraghazra/github-readme-stats)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugenyGorshkov&hide_progress=false&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugenyGorshkov&hide_progress=false&layout=compact&theme=dark) <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ##
 
